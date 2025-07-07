@@ -1,0 +1,13 @@
+com\port.o: ..\User\freeRTOS\ports\RVDS\ARM_CM3\port.c
+com\port.o: ..\User\freeRTOS\include\FreeRTOS.h
+com\port.o: D:\mysoftware\keil_arm\ARM\ARMCC\Bin\..\include\stddef.h
+com\port.o: D:\mysoftware\keil_arm\ARM\ARMCC\Bin\..\include\stdint.h
+com\port.o: ..\User\FreeRTOSConfig.h
+com\port.o: D:\mysoftware\keil_arm\ARM\ARMCC\Bin\..\include\stdio.h
+com\port.o: ..\User\freeRTOS\include\projdefs.h
+com\port.o: ..\User\freeRTOS\include\portable.h
+com\port.o: ..\User\freeRTOS\include\deprecated_definitions.h
+com\port.o: ..\User\freeRTOS\ports\RVDS\ARM_CM3\portmacro.h
+com\port.o: ..\User\freeRTOS\include\mpu_wrappers.h
+com\port.o: ..\User\freeRTOS\include\task.h
+com\port.o: ..\User\freeRTOS\include\list.h
